@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+The most recent syllabi for my courses can be found below; students can also access lab data from this page.  
+
+__Current courses:__
+
+* World Regional Geography: [Syllabus](assets/wrg.pdf) | [Data](wrg.html)
+* Urban and Business Applications of GIS: [Syllabus](assets/urbangis.pdf)
+
+__Past courses:__
+
+* Data Analysis & Visualization: [Course GitHub page](https://github.com/walkerke/geog30323)
+* Introduction to GIS: [Syllabus](assets/introgis.pdf) | [Data](introgis.html)
+* Advanced GIS: [Syllabus](assets/advancedgis.pdf) | [Data](advgis.html)
+* Population Geography (last taught Spring 2013): [Syllabus](assets/population.pdf)
+
+
+
+

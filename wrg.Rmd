@@ -1,0 +1,17 @@
+---
+title: "World Regional Geography"
+---
+
+## Data for World Regional Geography
+
+Please click the links below to download data for your mapping assignments.
+
+__If you are using the Safari browser: hold the ALT key when clicking the download link so that you do not automatically unzip the folder.__
+
+* [Assignment 2: Migration from Mexico](data/mexico.zip)
+* [Assignment 3: Aging in Europe](http://personal.tcu.edu/kylewalker/data/europe.zip)
+* [Assignment 4: Malaria in Ghana](https://dl.dropbox.com/s/qm9onor50x4yma8/chapter7data.zip)
+* [Assignment 5: Electoral geography of India](https://dl.dropbox.com/s/as1nii1mhiddndm/india_pcs.zip)
+
+
+

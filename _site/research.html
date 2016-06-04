@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Research</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Kyle E. Walker, Ph.D.</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="assets/cv.pdf">
+    <span class="fa fa-graduation-cap"></span>
+     
+    CV
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-globe"></span>
+     
+    Research
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="research.html">Summary</a>
+    </li>
+    <li>
+      <a href="publications.html">Publications</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="teaching.html">
+    <span class="fa fa-book"></span>
+     
+    Teaching
+  </a>
+</li>
+<li>
+  <a href="projects.html">
+    <span class="fa fa-code"></span>
+     
+    Projects
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/kyle_e_walker">
+    <span class="fa fa-twitter"></span>
+     
+    Twitter
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Research</h1>
+
+</div>
+
+
+<p>My research interests are wide-ranging but generally converge around the study of demographic trends in U.S. cities and suburbs. I am particularly interested in understanding shifts in the geography of various demographic groups within American metropolitan areas, and in turn examining the consequences of these shifts in areas such as politics and public health. I draw from diverse approaches in my work, ranging from data science to social theory. Brief descriptions of my main areas of research are below; <a href="publications.html">click here for links to my publications.</a></p>
+<div id="immigration-and-politics-in-local-communities" class="section level3">
+<h3>Immigration and politics in local communities</h3>
+<p>I’ve long been fascinated by how dramatically political attitudes can vary from neighborhood to neighborhood within metropolitan areas - perhaps best exemplified by the split between left-wing urban cores and right-wing exurbs that we observe in American cities. This motivated my doctoral research, in which I studied the reasons why some local governments enacted policies to drive out immigrants during the 2000s, whereas other communities pursued more inclusive paths. My publications on this topic appear in journals such as <em>Urban Geography</em>, <em>Journal of Ethnic and Migration Studies</em>, and <em>Tijdschrift voor economische en sociale geografie</em>. I’ve also studied whether “segregation” by political preference is growing in the Minneapolis-St. Paul area; this research is published in <em>City &amp; Community.</em></p>
+</div>
+<div id="migration-and-diversity-in-u.s.-metropolitan-areas" class="section level3">
+<h3>Migration and diversity in U.S. metropolitan areas</h3>
+<p>Topics like “gentrification” and “suburban decline” are popular these days in the urbanist media, and have inspired a great many articles and books. An on-going line of my research looks at the ways in which “demographic inversion” (to borrow from Alan Ehrenhalt) varies geographically within and across metropolitan areas. Recent projects have addressed how “back-to-the-city” migration varies by socio-economic status (forthcoming in <em>Growth &amp; Change</em>); the destinations of baby-boomer internal migrants (currently under review); and the shifting locations of “diverse” neighborhoods within metropolitan areas - that is, those neighborhoods where different racial and ethnic groups live together (published in <em>Urban Studies</em>; a follow-up manuscript is in preparation). At present, I am also working on a manuscript that traces how US immigrant populations have shifted between cities and suburbs over time.</p>
+</div>
+<div id="tools-for-demographic-data-analysis-and-visualization" class="section level3">
+<h3>Tools for demographic data analysis and visualization</h3>
+<p>The study of demographic trends requires both access to reliable data sources and effective methods of visualization for presentation of results. To that end, I have been researching and working on software tools and applications for demographic data acquisition and visualization. I have published two software packages for the R programming language that grant direct access to US Census Bureau data: <a href="https://cran.r-project.org/web/packages/tigris/index.html">tigris</a> and <a href="https://cran.rstudio.com/web/packages/idbr/">idbr</a>. Manuscripts about these packages are currently under review. I am also studying ways to make the results of demographic data analyses publicly accessible through visualization, using tools such as Mapbox Studio, CartoDB, and RStudio’s Shiny framework; <a href="projects.html">please see the Projects page for more information</a>.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

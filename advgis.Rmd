@@ -1,0 +1,18 @@
+---
+title: "Data for Advanced GIS""
+---
+
+* [Lab 1](Advanced%20GIS/Lab%201/Lab%201%20data.zip)
+* [Lab 2](Advanced%20GIS/Lab%202/Lab%202%20data.zip)
+* [Lab 3](Advanced%20GIS/Lab%203/Lab%203%20data.zip)
+* [Lab 4](Advanced%20GIS/Lab%204/Lab%204%20data.zip)
+* [Lab 5](Advanced%20GIS/Lab%205/lab5data.zip)
+* [Lab 6](Advanced%20GIS/Lab%206/lab6data.zip)
+* [Lab 7](Advanced%20GIS/Lab%207/lab7data.zip)
+    + [Lab 7, part 4](Advanced%20GIS/Lab%207/lab7pt4.zip)
+
+* [Midterm assignment](http://personal.tcu.edu/kylewalker/data/midterm_data.zip)
+
+
+
+

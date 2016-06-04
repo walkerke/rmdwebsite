@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Publications</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Kyle E. Walker, Ph.D.</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="assets/cv.pdf">
+    <span class="fa fa-graduation-cap"></span>
+     
+    CV
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-globe"></span>
+     
+    Research
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="research.html">Summary</a>
+    </li>
+    <li>
+      <a href="publications.html">Publications</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="teaching.html">
+    <span class="fa fa-book"></span>
+     
+    Teaching
+  </a>
+</li>
+<li>
+  <a href="projects.html">
+    <span class="fa fa-code"></span>
+     
+    Projects
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/kyle_e_walker">
+    <span class="fa fa-twitter"></span>
+     
+    Twitter
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Publications</h1>
+
+</div>
+
+
+<p><a href="http://scholar.google.com/citations?user=2P7x0u0AAAAJ&amp;hl=en">Google Scholar profile</a></p>
+<p>For a full listing of my work, <a href="assets/cv.pdf">please see my CV</a>.</p>
+<p><strong>Peer-reviewed articles:</strong></p>
+<p>The links are generally to paywalled versions of my articles; please contact me if you’d like me to send you a copy.</p>
+<p><strong>Walker, Kyle E.</strong> (2016) The Shifting Destinations of Metropolitan Migrants in the U.S., 2005-2011. Forthcoming in <em>Growth &amp; Change</em>.</p>
+<p><strong>Walker, Kyle E.</strong> (2016). Locating neighbourhood diversity in the American metropolis. <em>Urban Studies.</em> <a href="http://usj.sagepub.com/content/early/2016/04/29/0042098016643481.abstract">Link to Early View paper.</a></p>
+<p><strong>Walker, Kyle E.</strong> (2015). The spatiality of local immigration policies in the United States. <em>Tijdschrift voor economische en sociale geografie</em> 106(4), pp. 486-498. <a href="http://onlinelibrary.wiley.com/doi/10.1111/tesg.12130/abstract">Link to paper.</a></p>
+<p><strong>Walker, Kyle E.</strong>, and Sean M. Crotty (2015). Classifying high-prevalence neighborhoods for cardiovascular disease in Texas. <em>Applied Geography</em> 57, pp. 22-31. <a href="http://www.sciencedirect.com/science/article/pii/S0143622814002665">Link to paper.</a></p>
+<p><strong>Walker, Kyle E.</strong> (2014). Immigration, local policy, and national identity in the suburban United States. <em>Urban Geography</em> 35(4), pp. 508-529. <a href="http://www.tandfonline.com/doi/abs/10.1080/02723638.2014.890423#.VHKpXYvF98E">Link to paper.</a></p>
+<p><strong>Walker, Kyle E.</strong> (2014). The Role of Geographic Context in the Local Politics of US Immigration. <em>Journal of Ethnic and Migration Studies</em> 40(7), pp. 1040-1059. <a href="http://www.tandfonline.com/doi/abs/10.1080/1369183X.2013.831544#.VHKpdYvF98E">Link to paper.</a></p>
+<p><strong>Walker, Kyle E.</strong> (2013). Political Segregation of the Metropolis: Spatial Sorting by Partisan Voting in Minneapolis-St. Paul, Minnesota. <em>City &amp; Community</em> 12(1), pp. 35-55. <a href="http://onlinelibrary.wiley.com/doi/10.1111/cico.12003/abstract?deniedAccessCustomisedMessage=&amp;userIsAuthenticated=false">Link to paper.</a></p>
+<p><strong>Walker, Kyle E.</strong>, and Helga Leitner (2011). The Variegated Landscape of Local Immigration Policies in the US. <em>Urban Geography</em> 32(2), pp. 156-178. <a href="http://www.tandfonline.com/doi/abs/10.2747/0272-3638.32.2.156#.VHKpmovF98E">Link to paper.</a></p>
+<p><strong>Walker, Kyle E.</strong> (2010). Local Policy Responses to Immigration in the United States. <em>The CURA Reporter</em> 40(3-4), pp. 27-34. <a href="http://www.cura.umn.edu/sites/cura.advantagelabs.com/files/publications/40-3%264-Walker.pdf">Link to paper.</a></p>
+<p><strong>Walker, Kyle E.</strong> (2010). Negotiating GIS and Social Theory in Population Geography. <em>Geography Compass</em> 4(6), pp. 616-629. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00333.x/abstract?deniedAccessCustomisedMessage=&amp;userIsAuthenticated=false">Link to paper.</a></p>
+<hr />
+<p><strong>Textbook: <em>Navigating the World with GIS</em> </strong></p>
+<div style="float: left; padding-right: 10px;">
+<p><img src="https://he.kendallhunt.com/sites/default/files/styles/product_details_pop_up_image/public/product/Crotty-Walker_9781465284914.jpg" style="width: 200px"></p>
+</div>
+<p><em>Navigating the World with GIS: A Companion for World Regional Geography</em> is a co-authored textbook with Sean Crotty that includes nine online GIS exercises to be used in introductory geography courses, each covering major thematic issues in different parts of the world. The exercises are an excellent way to introduce undergraduates to GIS concepts, and require no technical background outside of an ability to operate a web browser. The book is available from <a href="http://www.amazon.com/Navigating-World-GIS-Companion-Geography/dp/1465284915">Amazon</a> and <a href="https://he.kendallhunt.com/product/navigating-world-gis-companion-world-regional-geography">the publisher, Kendall Hunt</a>, where you also can obtain an evaluation copy.</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

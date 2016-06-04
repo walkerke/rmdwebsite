@@ -1,0 +1,31 @@
+name: "Kyle E. Walker, Ph.D."
+navbar: 
+  title: "Kyle E. Walker, Ph.D."
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "CV"
+      icon: fa-graduation-cap
+      href: assets/cv.pdf
+    - text: "Research"
+      icon: fa-globe
+      menu: 
+        - text: "Summary"
+          href: research.html
+        - text: "Publications"
+          href: publications.html
+    - text: "Teaching"
+      icon: fa-book
+      href: teaching.html
+    - text: "Projects"
+      icon: fa-code
+      href: projects.html
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/kyle_e_walker
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    css: styles.css

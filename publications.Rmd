@@ -1,0 +1,42 @@
+---
+title: "Publications"
+---
+
+[Google Scholar profile](http://scholar.google.com/citations?user=2P7x0u0AAAAJ&hl=en)
+
+For a full listing of my work, [please see my CV](assets/cv.pdf).  
+
+__Peer-reviewed articles:__
+
+The links are generally to paywalled versions of my articles; please contact me if you'd like me to send you a copy.    
+
+__Walker, Kyle E.__ (2016)  The Shifting Destinations of Metropolitan Migrants in the U.S., 2005-2011.  Forthcoming in _Growth & Change_.  
+
+__Walker, Kyle E.__ (2016).  Locating neighbourhood diversity in the American metropolis.  _Urban Studies._  [Link to Early View paper.](http://usj.sagepub.com/content/early/2016/04/29/0042098016643481.abstract)
+
+__Walker, Kyle E.__ (2015).  The spatiality of local immigration policies in the United States.  _Tijdschrift voor economische en sociale geografie_  106(4), pp. 486-498.  [Link to paper.](http://onlinelibrary.wiley.com/doi/10.1111/tesg.12130/abstract)
+
+__Walker, Kyle E.__, and Sean M. Crotty (2015).  Classifying high-prevalence neighborhoods for cardiovascular disease in Texas.  _Applied Geography_ 57, pp. 22-31.  [Link to paper.](http://www.sciencedirect.com/science/article/pii/S0143622814002665)  
+
+__Walker, Kyle E.__ (2014).  Immigration, local policy, and national identity in the suburban United States. _Urban Geography_ 35(4), pp. 508-529.  [Link to paper.](http://www.tandfonline.com/doi/abs/10.1080/02723638.2014.890423#.VHKpXYvF98E)
+
+__Walker, Kyle E.__ (2014).  The Role of Geographic Context in the Local Politics of US Immigration.  _Journal of Ethnic and Migration Studies_ 40(7), pp. 1040-1059.  [Link to paper.](http://www.tandfonline.com/doi/abs/10.1080/1369183X.2013.831544#.VHKpdYvF98E)
+
+__Walker, Kyle E.__ (2013). Political Segregation of the Metropolis: Spatial Sorting by Partisan Voting in Minneapolis-St. Paul, Minnesota.  _City & Community_ 12(1), pp. 35-55.  [Link to paper.](http://onlinelibrary.wiley.com/doi/10.1111/cico.12003/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false)
+
+__Walker, Kyle E.__, and Helga Leitner (2011).  The Variegated Landscape of Local Immigration Policies in the US.    _Urban Geography_ 32(2), pp. 156-178.  [Link to paper.](http://www.tandfonline.com/doi/abs/10.2747/0272-3638.32.2.156#.VHKpmovF98E)
+
+__Walker, Kyle E.__ (2010). Local Policy Responses to Immigration in the United States.  _The CURA Reporter_ 40(3-4), pp. 27-34.  [Link to paper.](http://www.cura.umn.edu/sites/cura.advantagelabs.com/files/publications/40-3%264-Walker.pdf)
+
+__Walker, Kyle E.__ (2010).  Negotiating GIS and Social Theory in Population Geography.  _Geography Compass_ 4(6), pp. 616-629.  [Link to paper.](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00333.x/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false)
+
+---
+
+__Textbook: _Navigating the World with GIS_ __
+
+<div style="float: left; padding-right: 10px;">
+  <img src="https://he.kendallhunt.com/sites/default/files/styles/product_details_pop_up_image/public/product/Crotty-Walker_9781465284914.jpg" style="width: 200px">
+</div>
+
+_Navigating the World with GIS: A Companion for World Regional Geography_ is a co-authored textbook with Sean Crotty that includes nine online GIS exercises to be used in introductory geography courses, each covering major thematic issues in different parts of the world.  The exercises are an excellent way to introduce undergraduates to GIS concepts, and require no technical background outside of an ability to operate a web browser.  The book is available from [Amazon](http://www.amazon.com/Navigating-World-GIS-Companion-Geography/dp/1465284915) and [the publisher, Kendall Hunt](https://he.kendallhunt.com/product/navigating-world-gis-companion-world-regional-geography), where you also can obtain an evaluation copy.  
+

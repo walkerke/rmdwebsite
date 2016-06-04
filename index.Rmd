@@ -1,0 +1,18 @@
+---
+title: ""
+---
+
+<br/>
+<br/>
+
+<div style="float: left; padding-right: 10px;">
+  <img src=img/walker_crop.png style="width: 200px">
+</div>
+
+I am an Assistant Professor of Geography and Director of the [Center for Urban Studies](http://urbanstudies.tcu.edu/) at [Texas Christian University](http://www.tcu.edu).  My research interests include US immigration politics, the demography of cities and suburbs, and demographic data visualization.  At TCU, I teach courses in human geography, Geographic Information Systems, and data analysis. 
+
+
+Please visit the links on the menu to learn more about my activities at TCU; I can also be contacted directly at kyle (dot) walker (at) tcu (dot) edu.   
+
+
+

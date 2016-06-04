@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+My research interests are wide-ranging but generally converge around the study of demographic trends in U.S. cities and suburbs.  I am particularly interested in understanding shifts in the geography of various demographic groups within American metropolitan areas, and in turn examining the consequences of these shifts in areas such as politics and public health.  I draw from diverse approaches in my work, ranging from data science to social theory.  Brief descriptions of my main areas of research are below; [click here for links to my publications.](publications.html)
+
+### Immigration and politics in local communities
+
+I've long been fascinated by how dramatically political attitudes can vary from neighborhood to neighborhood within metropolitan areas - perhaps best exemplified by the split between left-wing urban cores and right-wing exurbs that we observe in American cities.  This motivated my doctoral research, in which I studied the reasons why some local governments enacted policies to drive out immigrants during the 2000s, whereas other communities pursued more inclusive paths.  My publications on this topic appear in journals such as _Urban Geography_, _Journal of Ethnic and Migration Studies_, and _Tijdschrift voor economische en sociale geografie_.  I've also studied whether "segregation" by political preference is growing in the Minneapolis-St. Paul area; this research is published in _City & Community._  
+
+### Migration and diversity in U.S. metropolitan areas
+
+Topics like "gentrification" and "suburban decline" are popular these days in the urbanist media, and have inspired a great many articles and books.  An on-going line of my research looks at the ways in which "demographic inversion" (to borrow from Alan Ehrenhalt) varies geographically within and across metropolitan areas.  Recent projects have addressed how "back-to-the-city" migration varies by socio-economic status (forthcoming in _Growth & Change_); the destinations of baby-boomer internal migrants (currently under review); and the shifting locations of "diverse" neighborhoods within metropolitan areas - that is, those neighborhoods where different racial and ethnic groups live together (published in _Urban Studies_; a follow-up manuscript is in preparation).  At present, I am also working on a manuscript that traces how US immigrant populations have shifted between cities and suburbs over time.  
+
+### Tools for demographic data analysis and visualization
+
+The study of demographic trends requires both access to reliable data sources and effective methods of visualization for presentation of results.  To that end, I have been researching and working on software tools and applications for demographic data acquisition and visualization.  I have published two software packages for the R programming language that grant direct access to US Census Bureau data: [tigris](https://cran.r-project.org/web/packages/tigris/index.html) and [idbr](https://cran.rstudio.com/web/packages/idbr/).  Manuscripts about these packages are currently under review.  I am also studying ways to make the results of demographic data analyses publicly accessible through visualization, using tools such as Mapbox Studio, CartoDB, and RStudio's Shiny framework; [please see the Projects page for more information](projects.html).  
