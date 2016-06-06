@@ -1,5 +1,5 @@
 ---
-title: "Data for Advanced GIS""
+title: "Data for Advanced GIS"
 ---
 
 * [Lab 1](Advanced%20GIS/Lab%201/Lab%201%20data.zip)
